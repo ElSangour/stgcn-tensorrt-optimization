@@ -94,8 +94,8 @@ GCN_Pytorch2TRT_Optimization/
 ## Roadmap
 
 - [x] Repository initialization
-- [ ] PyTorch ST-GCN model implementation
-- [ ] ONNX export pipeline
+- [x] PyTorch ST-GCN model implementation
+- [x] ONNX export pipeline
 - [ ] TensorRT FP16 conversion
 - [ ] TensorRT INT8 quantization with calibration
 - [ ] Comprehensive benchmarking suite
