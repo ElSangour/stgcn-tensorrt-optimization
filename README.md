@@ -236,11 +236,11 @@ GCN_Pytorch2TRT_Optimization/
 
 - [x] Repository initialization and documentation
 - [x] Interactive ONNX export with CLI
-- [ ] TensorRT conversion with automatic fallback
-- [ ] FP32/FP16 quantization support
+- [x] TensorRT conversion with automatic fallback
+- [x] FP32/FP16 quantization support
 - [x] Two-Stream ST-GCN architecture implementation
-- [ ] INT8 quantization with calibration dataset
-- [ ] Comprehensive benchmarking suite
+- [x] INT8 quantization with calibration dataset
+- [x] Comprehensive benchmarking suite
 - [ ] TensorRT inference wrapper for production
 - [ ] Real-time multi-camera integration example
 - [ ] Performance profiling tools
